@@ -21,15 +21,15 @@ This repository contains the implementation and experimental pipeline for **PsyF
 ├    ├──Processed.csv<br>
 ├<br>
 ├── architecture.png<br>
+├── LICENSE <br>
 └── README.md
 
-
-- To run complete project anybody just need to adjust proper path of the dataset. And then runn all from the Python code from this repository (such as `PsyFormer.ipynb` file), you need to use `Processed.csv` dataset from `dataset` Folder.
+- To run the complete project, users only need to set the correct dataset path and then execute all cells in the Python notebook. To reproduce the experiments from this repository using the `PsyFormer.ipynb` file, use the `Processed.csv` dataset available in the `dataset` folder. Once the dataset path is configured correctly, run all cells sequentially to reproduce the complete experimental pipeline.
 
 ---
 
-# How to Run/Reproduce outputs using code(.ipynb) in Google Colab with the given Datasets and codes
-
+## How to Run/Reproduce outputs using code(.ipynb) in Google Colab with the given Datasets and codes
+---
 
 ## Open Notebook in Google Colab
 
