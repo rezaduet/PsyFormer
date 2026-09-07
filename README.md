@@ -14,9 +14,9 @@ This repository contains the implementation and experimental pipeline for **PsyF
 ## Repository Structure
 
 ├── code<br>
-├    ├──PsyFormer.ipynb (Proposed Method Code)<br>
+├    ├──PsyFormer.ipynb (with 5-fold cross val result)<br>
 ├    ├──Baseline_Comparison.ipynb<br>
-├    ├──5_Fold_Cross_Val_with_XAI.ipynb<br>
+├    ├──Symptom_Graph.ipynb<br>
 ├── dataset <br>
 ├    ├──Processed.csv<br>
 ├<br>
@@ -24,7 +24,7 @@ This repository contains the implementation and experimental pipeline for **PsyF
 ├── LICENSE <br>
 └── README.md
 
-- To run the complete project, users only need to set the correct dataset path and then execute all cells in the Python notebook. To reproduce the experiments from this repository using the `PsyFormer.ipynb` file, use the `Processed.csv` dataset available in the `dataset` folder. Once the dataset path is configured correctly, run all cells sequentially to reproduce the complete experimental pipeline.
+- To run the complete project, users only need to set the correct dataset path and then execute all cells in the Python notebook. To reproduce the experiments from this repository using the `PsyFormer.ipynb` or other files (`Baseline_Comparison.ipynb` or `Symptom_Graph.ipynb`), use the `Processed.csv` dataset available in the `dataset` folder. Once the dataset path is configured correctly, run all cells sequentially to reproduce the complete experimental pipeline.
 
 ---
 
@@ -35,7 +35,7 @@ This repository contains the implementation and experimental pipeline for **PsyF
 
 1. Go to https://colab.research.google.com/
 2. Click **File → Upload notebook**
-3. Upload the notebook `PsyFormer.ipynb` file  
+3. Upload the notebook file, such as `PsyFormer.ipynb`.  
 
 ---
 
