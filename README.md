@@ -10,8 +10,7 @@ This repository contains the implementation and experimental pipeline for **PsyF
 
 
 ## Dataset: 
-Dataset is uploaded in the dataset directory. However, the original dataset used in this study can be directly accessed form the MHP (Anxiety, Stress, Depression) Dataset of University Students, is publicly available through Figshare at \href{https://doi.org/10.6084/m9.figshare.25771164.v1}{https://doi.org/10.6084/m9.figshare.25771164.v1}.
-
+Dataset is uploaded in the dataset directory. However, the original dataset used in this study can be directly accessed form the MHP (Anxiety, Stress, Depression) Dataset of University Students, is publicly available through Figshare at \href{https://doi.org/10.6084/m9.figshare.25771164}
 
 ---
 
